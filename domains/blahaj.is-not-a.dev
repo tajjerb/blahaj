@@ -1,15 +1,14 @@
 {
-    "description": "blahaj",
-    "domain": "is-not-a.dev",
+    "description": "blahaj :3",
+    "domain": "is-local.org",
     "subdomain": "blahaj",
-
     "owner": {
-        "repo": "https://github.com/tajjerb/blahaj/edit/main/domains/blahaj.is-not-a.dev",
+        "repo": "https://github.com/tajjerb",
         "email": "tajjerb@gmail.com"
     },
 
     "record": {
-        "A": [104.243.45.193],
-
+        "A": ["104.243.45.193"]
+    },
     "proxied": false
 }
