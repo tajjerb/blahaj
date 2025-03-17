@@ -1,6 +1,6 @@
 {
     "description": "blahaj :3",
-    "domain": "is-local.org",
+    "domain": "is-not-a.dev",
     "subdomain": "blahaj",
     "owner": {
         "repo": "https://github.com/tajjerb",
