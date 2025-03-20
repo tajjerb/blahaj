@@ -1,17 +1,13 @@
 {
-    "description": "Blahaj :3",
-
+    "description": "blahaj :3",
     "domain": "is-not-a.dev",
     "subdomain": "blahaj",
-
     "owner": {
-        "repo": "https://github.com/tajjerb/blahaj",
+        "repo": "https://github.com/tajjerb/blahaj/",
         "email": "tajjerb@gmail.com"
     },
-
     "record": {
-        "CNAME": "blahaj-mw48.onrender.com"
+        "A": ["35.160.120.126"]
     },
-
     "proxied": false
 }
